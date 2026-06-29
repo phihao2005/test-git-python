@@ -6,6 +6,3 @@ print("Tên là: ",ten)
 ngaythangnamsinh = input("Ngày tháng năm sinh: ")
 print("Ngày tháng năm sinh: ",ngaythangnamsinh)
 
-
-b = int (input("Nhập b:"))
-print("a+b=",a+b)
